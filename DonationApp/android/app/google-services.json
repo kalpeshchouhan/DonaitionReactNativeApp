@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126184430202",
+    "project_id": "auth-2567d",
+    "storage_bucket": "auth-2567d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126184430202:android:0691818c21920dad1039c3",
+        "android_client_info": {
+          "package_name": "com.donationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126184430202-s0tithfkjgo0fi39snf50hb60i0pgvmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donationapp",
+            "certificate_hash": "98cef8117b6a2fe61c005b098e1ed22b61e0911c"
+          }
+        },
+        {
+          "client_id": "126184430202-m5578bkrfo2eigvpd1eqlt6tqfuff3d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc7R5OL4ngYL3EELyFO3AVYp1ABHZpIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126184430202-m5578bkrfo2eigvpd1eqlt6tqfuff3d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
